@@ -1,0 +1,16 @@
+{
+  "name": "gulp-pug-starter",
+  "version": "1.0.0",
+  "description": "Something",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Someone",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "latest",
+    "gulp": "latest",
+    "gulp-pug": "latest"
+  }
+}
