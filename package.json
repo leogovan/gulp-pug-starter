@@ -13,6 +13,6 @@
     "gulp": "latest",
     "gulp-clean-css": "latest",
     "gulp-pug": "latest",
-    "gulp-sass": "lastest"
+    "gulp-sass": "latest"
   }
 }
