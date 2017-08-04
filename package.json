@@ -1,5 +1,5 @@
 {
-  "name": "gulp-pug-starter",
+  "name": "gulp-starter",
   "version": "1.0.0",
   "description": "Something",
   "main": "gulpfile.js",
@@ -13,6 +13,7 @@
     "gulp": "latest",
     "gulp-clean-css": "latest",
     "gulp-pug": "latest",
-    "gulp-sass": "latest"
+    "gulp-sass": "latest",
+    "gulp-uglify": "^3.0.0"
   }
 }
