@@ -11,6 +11,8 @@
   "devDependencies": {
     "browser-sync": "latest",
     "gulp": "latest",
-    "gulp-pug": "latest"
+    "gulp-clean-css": "latest",
+    "gulp-pug": "latest",
+    "gulp-sass": "lastest"
   }
 }
